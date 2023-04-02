@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN stack, Web 3.0**
 
-- 📫 How to reach me **eshan2003@gmail.com**
+- 📫 How to reach me **eshanchakra2018@gmail.com**
 
 - ⚡ Fun fact **Still to discover**
 
